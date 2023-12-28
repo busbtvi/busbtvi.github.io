@@ -8,3 +8,5 @@ tags: article, nextjs, js
 # Hello, World!
 
 ## This is my first post
+
+$\sigma \times$
